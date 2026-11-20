@@ -2,7 +2,6 @@
 
 JARVIS is a local, voice-driven assistant that listens for a wake word, transcribes speech, asks a local Ollama model for a response, and speaks the answer aloud. It also has optional voice and face enrollment for speaker verification and camera-based presence greetings; this project does not currently control the computer, browse the web, or operate smart-home devices.
 
-**Demo video:** [Add demo video link](#)
 
 ## Current features
 
