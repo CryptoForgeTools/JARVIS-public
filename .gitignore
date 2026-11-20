@@ -1,0 +1,63 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+*-env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# User memory, logs, captures, and recordings
+memory.json
+memory/*.json
+*.log
+logs/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.raw
+*.pcm
+*.wma
+*.mka
+*.mp4
+*.mov
+captures/
+screenshots/
+
+# Enrolled personal identity data
+*.npy
+voice_profile*
+face_model*
+*.pkl
+*.yml
+*.yaml
+
+# Downloaded models and model caches
+models/
+*.onnx
+*.caffemodel
+*.pt
+*.pth
+*.pth.tar
+*.safetensors
+*.gguf
+*.bin
+*.data
+.supertonic-assets.tmp/
+
+# Nested repositories / bundled external dependencies
+.git/

@@ -1,0 +1,11 @@
+# Python 3.10 or 3.11 recommended. CUDA/PyTorch builds depend on your hardware.
+numpy==1.26.4
+sounddevice==0.5.6
+sherpa-onnx==1.12.23
+openwakeword==0.6.0
+ollama==0.6.2
+requests==2.34.2
+python-dotenv==1.1.1
+resemblyzer==0.1.4
+opencv-contrib-python==4.11.0.86
+faster-qwen3-tts @ git+https://github.com/andimarafioti/faster-qwen3-tts.git@e2a215f61984c0e72a242f8dd72333338e7672f4
